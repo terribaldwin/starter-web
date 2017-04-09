@@ -12,4 +12,8 @@ Sample website with plenty of files for demos; also used for testing
 
 ## Deployment
 
+Text for deployment section
+
 ## How To Continue
+
+Text for how-to section
