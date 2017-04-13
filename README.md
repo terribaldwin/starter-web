@@ -17,3 +17,7 @@ Text for deployment section
 ## How To Continue
 
 Text for how-to section
+
+## Copyright notice
+
+2017 Git.training
