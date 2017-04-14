@@ -16,7 +16,7 @@ Text for deployment section
 
 ## How To Continue
 
-Text for how-to section
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright notice
 
