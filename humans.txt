@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Terri Baldwin 	terri.baldwin@cigna.com
 
 # THANKS
 
